@@ -84,18 +84,6 @@ Contributions, issues, and feature requests are welcome!
 
 ---
 
-## 📄 License
-
-Specify the license (e.g., MIT, Apache 2.0) you want to use here.
-
----
-
-## 📱 Screenshots (Optional)
-
-_Add screenshots of the app (dashboard, task list, calendar etc.) here to show how it looks._
-
----
-
 ## ⭐ About the Name
 
 “**DAILY-DRIFT**” stands for the idea of gently drifting toward better habits each day — small consistent steps add up.
